@@ -130,3 +130,27 @@
         ...user
     }
     console.log(extendedUser);
+
+    const password = prompt("Your password");
+
+     if (password === "Hello"){
+        console.log("hello works");
+     }else if(password === "hello"){
+        console.log("hello works");
+     }else{
+        console.log("Access not garanted");
+     }
+
+    if(10 === 10) {
+        // ...
+     } else if(5 === 5){
+         //--- 
+        }
+        else{
+
+        }
+
+       
+    for (const hobby of hobbies) {
+        console.log(hobby);
+    }
